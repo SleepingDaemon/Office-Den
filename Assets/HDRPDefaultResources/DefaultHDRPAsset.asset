@@ -150,7 +150,7 @@ MonoBehaviour:
       isFptlEnabled: 0
   m_RenderPipelineResources: {fileID: 11400000, guid: 3ce144cff5783da45aa5d4fdc2da14b7, type: 2}
   m_RenderPipelineRayTracingResources: {fileID: 11400000, guid: ba6e7f30e5cffc249a8bf7ee5756c196, type: 2}
-  m_DefaultVolumeProfile: {fileID: 11400000, guid: 3c9dfbe2bdc983c4c9818a587063969b, type: 2}
+  m_DefaultVolumeProfile: {fileID: 11400000, guid: be9c1b764daa16a4e8ef3f36e136cb6d, type: 2}
   m_LensAttenuation: 0
   m_UseRenderGraph: 1
   m_DefaultLookDevProfile: {fileID: 11400000, guid: 64b95d08f078f224487d5f6093c13d4c, type: 2}
