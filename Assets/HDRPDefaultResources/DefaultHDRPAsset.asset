@@ -202,7 +202,7 @@ MonoBehaviour:
     supportSSRTransparent: 0
     supportSSAO: 1
     supportSSGI: 0
-    supportSubsurfaceScattering: 1
+    supportSubsurfaceScattering: 0
     sssSampleBudget:
       m_Values: 140000002800000050000000
       m_SchemaId:
@@ -265,7 +265,7 @@ MonoBehaviour:
       skyLightingOverrideLayerMask:
         serializedVersion: 2
         m_Bits: 0
-      supportFabricConvolution: 0
+      supportFabricConvolution: 1
       maxDirectionalLightsOnScreen: 16
       maxPunctualLightsOnScreen: 512
       maxAreaLightsOnScreen: 64
@@ -302,7 +302,7 @@ MonoBehaviour:
       maxDirectionalShadowMapResolution: 2048
       maxPunctualShadowMapResolution: 2048
       maxAreaShadowMapResolution: 2048
-      supportScreenSpaceShadows: 0
+      supportScreenSpaceShadows: 1
       maxScreenSpaceShadowSlots: 4
       screenSpaceShadowBufferFormat: 48
     decalSettings:
@@ -440,10 +440,8 @@ MonoBehaviour:
   m_DefaultMaterialQualityLevel: 4
   diffusionProfileSettings: {fileID: 0}
   diffusionProfileSettingsList:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 11400000, guid: 2b7005ba3a4d8474b8cdc34141ad766e, type: 2}
+  - {fileID: 11400000, guid: 2b0b7a7ee9538f44a8bcfe99dd7d3378, type: 2}
+  - {fileID: 11400000, guid: 0da69ff822471074fa9a8ef089487107, type: 2}
   beforeTransparentCustomPostProcesses: []
   beforeTAACustomPostProcesses: []
   beforePostProcessCustomPostProcesses: []
