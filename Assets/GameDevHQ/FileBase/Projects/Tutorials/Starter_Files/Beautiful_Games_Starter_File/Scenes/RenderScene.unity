@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.012760285, g: 0.01853204, b: 0.02886407, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -310,6 +310,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -437,6 +441,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office Corner Pillar (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -506,6 +514,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_Name
       value: Wooden Floor Black 4x4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_RootOrder
@@ -876,6 +888,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Concrete Ceiling B 4x4 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -1135,6 +1151,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office 4m Window A (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0e065395648db1e428d9e21d83114dc0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e065395648db1e428d9e21d83114dc0, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -1201,6 +1221,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6bcf68a34c9199941822ee7a610a5c74, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6bcf68a34c9199941822ee7a610a5c74, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -1262,6 +1286,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_Name
       value: Concrete Ceiling B 4x4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_RootOrder
@@ -1328,6 +1356,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
@@ -1457,6 +1489,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -1526,6 +1562,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_Name
       value: Principal Office 4m Wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
@@ -1651,6 +1691,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office 4m Wall (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -1712,6 +1756,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_Name
       value: Principal Office 4m Wall (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
@@ -2056,7 +2104,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &624922988
 Transform:
@@ -2124,7 +2172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &635382653
 Transform:
   m_ObjectHideFlags: 0
@@ -2466,6 +2514,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office 4m Wall (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -2531,6 +2583,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
@@ -2746,6 +2802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office 2m Door A
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 010391ce634c6c748aeb148845916942, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 010391ce634c6c748aeb148845916942, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -2807,6 +2867,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_Name
       value: Concrete Ceiling B 4x4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_RootOrder
@@ -3062,7 +3126,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_RootOrder
@@ -3257,8 +3321,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.0561837, y: -0.38544622, z: 0.023399327, w: -0.920721}
-  m_LocalPosition: {x: -6.5350914, y: 1.8881963, z: -5.2718644}
+  m_LocalRotation: {x: -0.17875277, y: 0.43060786, z: -0.087593056, w: -0.88031346}
+  m_LocalPosition: {x: -0.2871251, y: 2.497759, z: -4.6377287}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3827,6 +3891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office 4m Window A
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0e065395648db1e428d9e21d83114dc0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0e065395648db1e428d9e21d83114dc0, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3966,6 +4034,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 010391ce634c6c748aeb148845916942, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 010391ce634c6c748aeb148845916942, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 010391ce634c6c748aeb148845916942, type: 3}
       propertyPath: m_RootOrder
@@ -4190,6 +4262,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office Corner Pillar (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -4291,6 +4367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Floor Black 4x4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -4388,6 +4468,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_Name
       value: Principal Office Corner Pillar
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
@@ -4520,6 +4604,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_Name
       value: Principal Office Corner Pillar (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
@@ -4710,6 +4798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Concrete Ceiling B 4x4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: df63d1bcfa5224b888c81cc6402e6422, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -4771,6 +4863,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 6bcf68a34c9199941822ee7a610a5c74, type: 3}
       propertyPath: m_Name
       value: Principal Office 2m Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6bcf68a34c9199941822ee7a610a5c74, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6bcf68a34c9199941822ee7a610a5c74, type: 3}
       propertyPath: m_RootOrder
@@ -4838,6 +4934,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -4899,6 +4999,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_Name
       value: Principal Office Corner Pillar (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
@@ -5112,7 +5216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Profile: {fileID: 11400000, guid: be9c1b764daa16a4e8ef3f36e136cb6d, type: 2}
-  m_StaticLightingSkyUniqueID: 1
+  m_StaticLightingSkyUniqueID: 0
 --- !u!4 &1550437900
 Transform:
   m_ObjectHideFlags: 1
@@ -5141,6 +5245,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
@@ -5328,6 +5436,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 34cf82b7bc81644ffb58cab4d4cd70b3, type: 3}
   m_PrefabInstance: {fileID: 1718252781}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1726556685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1992835824}
+    m_Modifications:
+    - target: {fileID: 6543453336848121023, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_Name
+      value: Chandelier_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.996
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.608
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+--- !u!4 &1726556686 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7823981792997396140, guid: fc9dd2d93492148cbb23b8607f26c13a, type: 3}
+  m_PrefabInstance: {fileID: 1726556685}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1728733647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5446,6 +5616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Principal Office Corner Pillar (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd8ecc50170d88541b3086916f357fa3, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -5515,6 +5689,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_Name
       value: Wooden Floor Black 4x4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_RootOrder
@@ -6016,6 +6194,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Floor Black 4x4
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6077,6 +6259,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_Name
       value: Wooden Floor Black 4x4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 3c79e68c98501f04397f7480b6a4c757, type: 3}
       propertyPath: m_RootOrder
@@ -6184,6 +6370,7 @@ Transform:
   - {fileID: 853342054}
   - {fileID: 851668515}
   - {fileID: 689232802}
+  - {fileID: 1726556686}
   m_Father: {fileID: 1741398094}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6197,6 +6384,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_Name
       value: Principal Office 4m Wall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
@@ -6259,6 +6450,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 688394c05829be7439e4f0ec8306e43c, type: 3}
       propertyPath: m_Name
       value: Principal Office 4m Window D
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 688394c05829be7439e4f0ec8306e43c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 688394c05829be7439e4f0ec8306e43c, type: 3}
       propertyPath: m_RootOrder
@@ -6386,7 +6581,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d89d1395b106bfb46b365e1fe3c0f5f6, type: 3}
       propertyPath: m_RootOrder
