@@ -103,12 +103,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 1309869132458862492}
     m_Modifications:
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_Intensity
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_ShadowDimmer
       value: 0.335
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: showAdditionalSettings
       value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_Intensity
+      value: 0.7957747
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Shadows.m_Type
@@ -195,6 +203,10 @@ PrefabInstance:
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_UseContactShadow.m_Override
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_Intensity
+      value: 0.7957747
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Shadows.m_Type
