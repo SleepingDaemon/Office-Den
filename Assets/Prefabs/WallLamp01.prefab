@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1309869132458862492
 Transform:
@@ -43,6 +43,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: fad8cdb102bcb7f4798817238f041830, type: 3}
       propertyPath: m_Name
       value: Wall_Lamp_13
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fad8cdb102bcb7f4798817238f041830, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fad8cdb102bcb7f4798817238f041830, type: 3}
       propertyPath: m_RootOrder
@@ -104,7 +108,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Intensity
-      value: 10
+      value: 5.41
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_ShadowDimmer
@@ -118,13 +122,17 @@ PrefabInstance:
       propertyPath: showAdditionalSettings
       value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_UseContactShadow.m_Override
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Intensity
-      value: 0.7957747
+      value: 0.4305141
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Shadows.m_Type
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_ColorTemperature
@@ -133,6 +141,14 @@ PrefabInstance:
     - target: {fileID: 4046630753252917576, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Name
       value: PointLightLamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917576, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917576, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_RootOrder
@@ -193,6 +209,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1309869132458862492}
     m_Modifications:
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_Intensity
+      value: 5.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_PenumbraTint
       value: 1
       objectReference: {fileID: 0}
@@ -210,15 +230,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_UseContactShadow.m_Override
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Intensity
-      value: 3.9763403
+      value: 0.4305141
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Shadows.m_Type
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_ColorTemperature
@@ -227,6 +247,14 @@ PrefabInstance:
     - target: {fileID: 4046630753252917576, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Name
       value: PointLightLamp (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917576, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917576, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_RootOrder
