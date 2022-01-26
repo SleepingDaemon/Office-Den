@@ -275,7 +275,7 @@ MonoBehaviour:
     m_Value: 50
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 58.3
+    m_Value: 48.7
     min: 1
   enableVolumetricFog:
     m_OverrideState: 1
@@ -300,7 +300,7 @@ MonoBehaviour:
     m_Value: 2
   anisotropy:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.03
     min: -1
     max: 1
   sliceDistributionUniformity:
