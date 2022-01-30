@@ -210,8 +210,8 @@ Material:
     - _LinkDetailsWithBase: 0
     - _MaterialID: 1
     - _Metallic: 1
-    - _MetallicRemapMax: 0.2745849
-    - _MetallicRemapMin: 0.13793102
+    - _MetallicRemapMax: 0.5150659
+    - _MetallicRemapMin: 0.37841198
     - _Mode: 0
     - _NormalMapSpace: 0
     - _NormalScale: 1
