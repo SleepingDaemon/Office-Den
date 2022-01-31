@@ -272,6 +272,10 @@ PrefabInstance:
       value: 0.82
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_LightDimmer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_PenumbraTint
       value: 1
       objectReference: {fileID: 0}
@@ -337,31 +341,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.69915944
+      value: 0.56265455
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.71496576
+      value: 0.7493947
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.24954352
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.0000019669535
+      value: -0.24403995
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 91.281006
+      value: 105.18201
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0.007003784
+      value: 18.927994
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0.007003784
+      value: -22.304016
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267ee62ba96a916409bc95953134419c, type: 3}
@@ -390,6 +394,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_LightDimmer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_ShapeRadius
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_PenumbraTint
       value: 1
       objectReference: {fileID: 0}
@@ -416,6 +428,10 @@ PrefabInstance:
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Intensity
       value: 1.5915494
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_ShadowRadius
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917575, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_Shadows.m_Type
@@ -467,31 +483,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6562371
+      value: 0.5534307
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7545548
+      value: 0.83181727
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.00000005960465
+      value: 0.029455453
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.000002563
+      value: -0.03044492
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 97.97299
+      value: 112.70599
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0.0019989014
+      value: 2.6799927
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0.0010070801
+      value: -2.2720032
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267ee62ba96a916409bc95953134419c, type: 3}
@@ -586,6 +602,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_LightDimmer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_PenumbraTint
       value: 1
       objectReference: {fileID: 0}
@@ -651,23 +671,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.619843
+      value: 0.628101
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.78472584
+      value: -0.77813184
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.00000014901158
+      value: 0.000000059604645
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0000025331967
+      value: 0.000002413988
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -103.391
+      value: -102.18
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917577, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -702,6 +722,10 @@ PrefabInstance:
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_NormalBias
       value: 0.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
+      propertyPath: m_LightDimmer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4046630753252917574, guid: 267ee62ba96a916409bc95953134419c, type: 3}
       propertyPath: m_PenumbraTint
